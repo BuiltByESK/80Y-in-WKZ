@@ -175,4 +175,4 @@ MIT
 
 ## Acknowledgements
 
-Inspired by Tim Urban's "Your Life in Weeks" and the concept that the average human lifespan is approximately 80 years (4,160 weeks). 
+This project was inspired by Tim Urban’s viral “Your Life in Weeks” chart and Oliver Burkeman’s deeply reflective book Four Thousand Weeks, which I read and carried with me since. Both shaped how I view time, mortality, and meaning — and led to the creation of this visual tool.
