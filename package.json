@@ -1,0 +1,23 @@
+{
+  "name": "80Y-in-Weeks",
+  "version": "1.0.0",
+  "description": "Life Calendar Wallpaper Generator",
+  "main": "80Y-in-Weeks.js",
+  "scripts": {
+    "start": "node 80Y-in-Weeks.js"
+  },
+  "keywords": [
+    "wallpaper",
+    "life",
+    "calendar",
+    "time",
+    "productivity",
+    "motivation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "win-wallpaper": "^2.2.0"
+  }
+}
